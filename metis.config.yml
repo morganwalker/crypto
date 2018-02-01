@@ -1,0 +1,8 @@
+project_token: ecdbdf2525ee6e7b68297268
+name: crypto
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
