@@ -1,6 +1,6 @@
 # bitcoinRNN.template
 
-Changing stuff to fire off build
+Changing stuff to fire off build...AGAIN
 
 This template shows basic usage of Metis Machine curated data, 3rd party data, and PyTorch framework to implement a recurrent deep learning model to predict the "closing price" of bitcoin.
 
